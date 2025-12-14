@@ -31,12 +31,15 @@ The trained model achieves **at least 90% classification accuracy**.
 - **Image size**: Resized to a fixed resolution before training
 
 ### Dataset Structure
+```
 dataset/
- ├── dog/
- ├── cow/
- ├── cat/
- ├── lamb/
- └── zebra/
+├── dog/
+├── cow/
+├── cat/
+├── lamb/
+└── zebra/
+```
+
 
 
 
