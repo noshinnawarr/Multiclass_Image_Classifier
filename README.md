@@ -1,5 +1,5 @@
 # Multiclass_Image_Classifier
-# 🐾 Animal Image Classification using CNN (Sequential Model)
+# 🐾 Multiclass Animal Image Classification using CNN and YOLOv11
 
 ## 📌 Project Overview
 This project focuses on building a **custom image classification system** using a **Convolutional Neural Network (CNN) with a Sequential architecture** and **YOLOv11**.  
