@@ -96,3 +96,4 @@ Install dependencies:
 ```bash
 pip install tensorflow numpy matplotlib
 
+[Demo video]((https://drive.google.com/file/d/1FaPY5deeSzfLLE6pNjisTTDjAHYM1h7b/view))
