@@ -2,7 +2,7 @@
 # 🐾 Animal Image Classification using CNN (Sequential Model)
 
 ## 📌 Project Overview
-This project focuses on building a **custom image classification system** using a **Convolutional Neural Network (CNN) with a Sequential architecture**.  
+This project focuses on building a **custom image classification system** using a **Convolutional Neural Network (CNN) with a Sequential architecture** and **YOLOv11**.  
 The model classifies images into **five animal classes**: **Dog, Cow, Cat, Lamb, and Zebra**.
 
 A custom dataset was created with **100 images per class**, collected from the internet and real-world captures.  
@@ -12,7 +12,7 @@ The trained model achieves **at least 90% classification accuracy**.
 
 ## 🎯 Objectives
 - Create a **custom image dataset** with five animal categories  
-- Design and train a **CNN Sequential model**
+- Design and train a **CNN Sequential model** and **YOLOv11 model**
 - Achieve **≥ 90% accuracy**
 - Evaluate model performance using validation and test data
 
@@ -46,7 +46,7 @@ dataset/
 
 ---
 
-## 🧠 Model Architecture
+## 🧠 Model Architecture of CNN
 The model is built using **Keras Sequential API** with the following layers:
 
 - Convolutional layers for feature extraction
@@ -73,14 +73,14 @@ The model is built using **Keras Sequential API** with the following layers:
 ---
 
 ## 📊 Results
-- **Training Accuracy**: 100%
-- **Validation Accuracy**: 100%
-- The model successfully distinguishes between all five animal classes.
+- **CNN based Classifier Accuracy**: 100%
+- **YOLOv11 based Classifier Accuracy**: 94%
+- The models successfully distinguish between all five animal classes.
 
 ---
 
 ## 🧪 Testing & Prediction
-The trained model can predict the class of a **new unseen image** and output the **predicted animal label**.
+The trained models can predict the class of a **new unseen image** and output the **predicted animal label**.
 
 
 ---
