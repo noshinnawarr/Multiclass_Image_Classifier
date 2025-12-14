@@ -32,14 +32,13 @@ The trained model achieves **at least 90% classification accuracy**.
 
 ### Dataset Structure
 dataset/
-├── train/
-│ ├── dog/
-│ ├── cow/
-│ ├── cat/
-│ ├── lamb/
-│ └── zebra/
-├── validation/
-└── test/
+ ├── dog/
+ ├── cow/
+ ├── cat/
+ ├── lamb/
+ └── zebra/
+
+
 
 
 ---
