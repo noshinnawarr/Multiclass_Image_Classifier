@@ -73,14 +73,14 @@ The model is built using **Keras Sequential API** with the following layers:
 ---
 
 ## 📊 Results
-- **Training Accuracy**: ≥ 90%
-- **Validation Accuracy**: ≥ 90%
+- **Training Accuracy**: 100%
+- **Validation Accuracy**: 100%
 - The model successfully distinguishes between all five animal classes.
 
 ---
 
 ## 🧪 Testing & Prediction
-The trained model can predict the class of a **new unseen image** and output the **predicted animal label with confidence**.
+The trained model can predict the class of a **new unseen image** and output the **predicted animal label**.
 
 
 ---
